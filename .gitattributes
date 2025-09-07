@@ -1,0 +1,7 @@
+# End-of-line normalization
+* text=auto eol=lf
+
+
+# Treat vendor assets as vendored so GitHub linguist focuses on PHP
+assets/** linguist-vendored
+system/** linguist-vendored
