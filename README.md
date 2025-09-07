@@ -1,5 +1,10 @@
 # CodeIgniter 2 PHP 8 Boilerplate
 
+![PHP](https://img.shields.io/badge/PHP-8.3-blue)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-2.2.6-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 🚀 A modernized boilerplate for CodeIgniter 2 projects running on PHP 8.2/8.3+.This project patches the original CodeIgniter 2.2.6 core (system/ folder) to remove deprecated features, fix dynamic property issues, and update old MySQL calls for compatibility with modern PHP and MariaDB/MySQL.
 
 ## ✨ Features
