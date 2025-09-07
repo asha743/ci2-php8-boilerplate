@@ -1,0 +1,48 @@
+.DS_Store
+
+application/cache/*
+!application/cache/index.html
+!application/cache/.htaccess
+
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+
+# OS / editor
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+
+# PHP / Composer
+vendor/
+composer.lock
+composer.phar
+
+
+# Env / secrets
+.env
+.env.*
+*.local
+
+
+# CodeIgniter cache & logs
+application/cache/*
+!application/cache/index.html
+application/logs/*
+!application/logs/index.html
+
+
+# Uploads (if you store user files here; keep index file if needed)
+# uploads/
+
+
+# Node / front-end (if any)
+node_modules/
+
+
+# Misc
+*.bak
+*.tmp
+*.log
